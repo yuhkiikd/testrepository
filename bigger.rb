@@ -31,4 +31,9 @@ end
 puts(median(5,7,2))
 puts(median(7,3,2))
 puts(median(1,4,2))
+<<<<<<< HEAD
 #test
+=======
+
+
+>>>>>>> origin/master
